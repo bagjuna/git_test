@@ -5,3 +5,6 @@
 일반 merge - 다섯번째 줄 추가
 squash merge - 여섯번째 줄 추가
 rebase merge - 일곱번째 줄 추가
+test squash merge - A
+test squash merge - B
+test squash merge - C
