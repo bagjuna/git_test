@@ -22,12 +22,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature/test-squash" />
-                    <option name="lastUsedInstant" value="1758817682" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1758817980" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1758816662" />
+                    <option name="branchName" value="feature/test-squash" />
+                    <option name="lastUsedInstant" value="1758817682" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="feature/rebase-merge" />
@@ -56,7 +56,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/test-squash",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/bagjun-a/study_git/git_test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758810398461</updated>
       <workItem from="1758810399850" duration="4939000" />
-      <workItem from="1758815365721" duration="2563000" />
+      <workItem from="1758815365721" duration="2885000" />
     </task>
     <servers />
   </component>

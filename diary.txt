@@ -8,3 +8,4 @@ rebase merge - 일곱번째 줄 추가
 test squash merge - A
 test squash merge - B
 test squash merge - C
+test rebase merge - A
