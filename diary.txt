@@ -10,3 +10,4 @@ test squash merge - B
 test squash merge - C
 test rebase merge - A
 test rebase merge - B
+test rebase merge - C
